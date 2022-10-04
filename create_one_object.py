@@ -1,6 +1,5 @@
 from create_one_attribute import Person
-def __init__(self,name):
-        self.name = name
+
 human = Person("Ali")
 # print(human.name)
 
